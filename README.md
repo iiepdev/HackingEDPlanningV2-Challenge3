@@ -36,6 +36,33 @@ If you have never used github repository you can download the content of this re
 
 # Version française
 
+Note : En accédant à ce dépôt et aux fichiers correspondants, vous acceptez un accord de non-divulgation des données confidentielles. Pour en obtenir une copie, veuillez écrire à development@iiep.unesco.org.
+
+🧐 L'OECS (Organisation of Eastern Caribbean States) est une alliance de 11 États situés dans une zone géographique exposée aux tempêtes tropicales, aux éruptions volcaniques et à d'autres risques naturels liés au changement climatique. Il est donc important pour les autorités locales et régionales de pouvoir localiser rapidement les écoles et d'être en mesure d'évaluer si elles sont endommagées par différents risques.
+
+🎯 L'objectif du défi est de créer une plateforme numérique pour aider les communautés à localiser les écoles les plus proches dans leurs districts et, en cas d'urgence, à identifier les installations communautaires qui peuvent fournir un abri ou des kits de premiers secours.
+
+⛑ Pour relever ce défi, nous recherchons des personnes à l'aise avec le développement web, la géolocalisation et la création d'itinéraires optimisés.
+
+# Données
+
+Les informations disponibles pour ce défi proviennent de Sainte-Lucie, dans les Caraïbes, au large des côtes du Venezuela. Elles contiennent des informations sur les routes, les écoles, l'altitude et les limites administratives. Pour faciliter la tâche de tous les participants, toutes ces informations ont été sauvegardées sur un fichier [GeoPackage](https://box.iiep.unesco.org/s/qH3Z9aBtjCddJ95). Le tableau ci-dessous comprend des informations sur les différentes sources d'information utilisées pour construire ce fichier.
+
+|Variable|Source|Additional information|
+|:----|:----|:----|
+|Limites administratives|[HDX](https://data.humdata.org/dataset/cod-ab-lca)|Nom du fichier : lca_admbnda_gov_2019_SHP.zipSHP|
+|Modèle numérique d'élévation|[Copernicus GLO-30 Digital Elevation Model](https://portal.opentopography.org/raster?opentopoID=OTSDEM.032021.4326.3)|Information pour Sainte-Lucie obtenue le 2 mai 2022|
+|Réseau routier|[HDX](https://data.humdata.org/dataset/hotosm_lca_roads)|Nom du fichier : hotosm_lca_roads_lines_shp.zip|
+|Localisation de l'école|[OECS](https://box.iiep.unesco.org/s/LjHcoC7D7L5rAsn)|Certaines des variables incluses ont été générées aléatoirement par l'IIPE aux fins de cet exercice|
+
+La couche école comprend des informations sur un certain nombre de variables, dont certaines sont basées sur des données fictives. Vous trouverez plus d'informations à ce sujet dans la table attributaire "Variable dictionary - School location", enregistrée directement sur le GeoPackage.
+
+# Comment utiliser ce dépôt GitHub ?
+
+Si vous n'avez jamais utilisé le dépôt GitHub, vous pouvez télécharger le contenu de ce dépôt en cliquant sur le bouton **Code** et ensuite **télécharger zip**. Si vous voulez, vous pouvez commencer à utiliser GitHub en forkant ce projet comme base pour votre projet et partager votre travail sur GitHub.
+
+![image](https://user-images.githubusercontent.com/20289907/165938434-c12486a7-b9ae-43e8-81f2-0e15e279bfd3.png)
+
 # Versión en Español
 
 Nota: Al acceder a este repositorio y a los archivos correspondientes, usted acepta un acuerdo de no divulgación. Para obtener una copia, escriba a development@iiep.unesco.org
@@ -61,6 +88,6 @@ La capa de la escuela incluye información sobre una serie de variables, algunas
 
 # ¿Cómo utilizar este repositorio de GitHub?
 
-Si nunca ha utilizado el repositorio de GitHub, puede descargar el contenido de este repositorio haciendo clic en el botón Código y luego descargar el zip. Si así lo desea, puede empezar a usar GitHub bifurcando este proyecto como base para su proyecto y compartir su trabajo en GitHub.
+Si nunca ha utilizado el repositorio de GitHub, puede descargar el contenido de este repositorio haciendo clic en el botón **Código** y luego **descargar el zip**. Si así lo desea, puede empezar a usar GitHub bifurcando este proyecto como base para su proyecto y compartir su trabajo en GitHub.
 
 ![image](https://user-images.githubusercontent.com/20289907/165938434-c12486a7-b9ae-43e8-81f2-0e15e279bfd3.png)
