@@ -7,7 +7,7 @@ alt="Introductory video" width="720" height="360" border="10" /></a>
 
 🇪🇸 [Versión en Español](#versi%C3%B3n-en-espa%C3%B1ol)
 
-Note: By accessing this repository and the corresponding files, you agree to a [non-disclosure agreement](https://box.iiep.unesco.org/s/FCXnZCStwRcyge4). 
+Note: By accessing this repository and the corresponding files, you agree to a [non-disclosure agreement](https://box.iiep.unesco.org/s/FCXnZCStwRcyge4). You can also access the [Challenge brief](https://box.iiep.unesco.org/s/oN68qfxZnxDfDNf).
 
 🧐 The Organisation of Eastern Caribbean States (OECS) is an alliance of 11 states located in a geographical area prone to tropical storms, volcanic eruptions and other natural hazards related to climate change. It is therefore important for local and regional authorities to be able to rapidly locate schools and to be able to assess whether schools are damaged by different hazards.
 
@@ -36,7 +36,7 @@ If you have never used github repository you can download the content of this re
 
 # Version française
 
-Note : En accédant à ce dépôt et aux fichiers correspondants, vous acceptez un [accord de non-divulgation des données confidentielles](https://box.iiep.unesco.org/s/cLG4mAXLWeJyFWT). 
+Note : En accédant à ce dépôt et aux fichiers correspondants, vous acceptez un [accord de non-divulgation des données confidentielles](https://box.iiep.unesco.org/s/cLG4mAXLWeJyFWT). Vous pouvez également accéder au [Résumé du défi](https://box.iiep.unesco.org/s/oN68qfxZnxDfDNf).
 
 🧐 L'OECS (Organisation of Eastern Caribbean States) est une alliance de 11 États situés dans une zone géographique exposée aux tempêtes tropicales, aux éruptions volcaniques et à d'autres risques naturels liés au changement climatique. Il est donc important pour les autorités locales et régionales de pouvoir localiser rapidement les écoles et d'être en mesure d'évaluer si elles sont endommagées par différents risques.
 
@@ -65,7 +65,7 @@ Si vous n'avez jamais utilisé le dépôt GitHub, vous pouvez télécharger le c
 
 # Versión en Español
 
-Nota: Al acceder a este repositorio y a los archivos correspondientes, usted acepta un [acuerdo de no divulgación](https://box.iiep.unesco.org/s/5NdS4nR2dinDbRY).
+Nota: Al acceder a este repositorio y a los archivos correspondientes, usted acepta un [acuerdo de no divulgación](https://box.iiep.unesco.org/s/5NdS4nR2dinDbRY). También puede acceder al [Informe del Desafío](https://box.iiep.unesco.org/s/oN68qfxZnxDfDNf).
 
 🧐 La Organización de Estados del Caribe Oriental (OECO)es una alianza de 11 estados situada en una zona geográfica propensa a las tormentas tropicales, las erupciones volcánicas y otros peligros naturales relacionados con el cambio climático. Por este motivo, es importante que las autoridades locales y regionales puedan localizar rápidamente las escuelas en sus territorios y evaluar si han sido afectadas por los diferentes fenómenos naturales.
 
