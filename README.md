@@ -3,6 +3,10 @@
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=z7BVog3RnuQ" target="_blank"><img src="https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F237802049%2F336870561013%2F1%2Foriginal.20220228-102209?w=800&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C54%2C1200%2C600&s=92cc71cae0ff03ed75357a1f0aef9819" 
 alt="Introductory video" width="720" height="360" border="10" /></a>
 
+🇫🇷 [Version française](#version-française)
+
+🇪🇸 [Versión en Español](#versi%C3%B3n-en-espa%C3%B1ol)
+
 Note: By accessing this repository and the corresponding files, you agree to a non-disclosure agreement. To get a copy, please write to development@iiep.unesco.org
 
 🧐 The Organisation of Eastern Caribbean States (OECS) is an alliance of 11 states located in a geographical area prone to tropical storms, volcanic eruptions and other natural hazards related to climate change. It is therefore important for local and regional authorities to be able to rapidly locate schools and to be able to assess whether schools are damaged by different hazards.
@@ -27,5 +31,36 @@ The school layer includes information on a number of variables, some of which ar
 # How to use this GitHub repository ? 
 
 If you have never used github repository you can download the content of this repository by clicking on the button **Code** and then **download zip**. If you want you can start to use github by forking this project as a base for your project and share your work on Github. 
+
+![image](https://user-images.githubusercontent.com/20289907/165938434-c12486a7-b9ae-43e8-81f2-0e15e279bfd3.png)
+
+# Version française
+
+# Versión en Español
+
+Nota: Al acceder a este repositorio y a los archivos correspondientes, usted acepta un acuerdo de no divulgación. Para obtener una copia, escriba a development@iiep.unesco.org
+
+🧐 La Organización de Estados del Caribe Oriental (OECO)es una alianza de 11 estados situada en una zona geográfica propensa a las tormentas tropicales, las erupciones volcánicas y otros peligros naturales relacionados con el cambio climático. Por este motivo, es importante que las autoridades locales y regionales puedan localizar rápidamente las escuelas en sus territorios y evaluar si han sido afectadas por los diferentes fenómenos naturales.
+
+🎯 El objetivo de este reto es crear una plataforma digital que ayude a las comunidades a localizar las escuelas más cercanas en sus distritos y, en caso de emergencia, a identificar las instalaciones comunitarias que puedan proporcionar refugio o botiquines de primeros auxilios.
+
+⛑ Para abordar este reto, buscamos personas que se sientan cómodas con el desarrollo web, la geolocalización y la creación de rutas optimizadas.
+
+# Datos
+
+La información disponible para este reto procede de Santa Lucía, un estado ubicado en el Caribe, frente a la costa de Venezuela. Contiene información sobre carreteras, escuelas, elevación y límites administrativos. Para facilitar el acceso, toda esta información se ha guardado en un [GeoPackage](https://box.iiep.unesco.org/s/qH3Z9aBtjCddJ95). La tabla siguiente incluye información sobre las diferentes fuentes de información utilizadas para construir este archivo.
+
+|Variable|Fuente|Información adicional|
+|:----|:----|:----|
+|Límites administrativos|[HDX](https://data.humdata.org/dataset/cod-ab-lca)|Nombre del archivo: lca_admbnda_gov_2019_SHP.zipSHP|
+|Modelo digital de elevación|[Copernicus GLO-30 Digital Elevation Model](https://portal.opentopography.org/raster?opentopoID=OTSDEM.032021.4326.3)|Información para Santa Lucía obtenida el 2 de mayo de 2022|
+|Red de carreteras|[HDX](https://data.humdata.org/dataset/hotosm_lca_roads)|Nombre del archivo: hotosm_lca_roads_lines_shp.zip|
+|Ubicación de las escuelas|[OECS](https://box.iiep.unesco.org/s/LjHcoC7D7L5rAsn)|Algunas de las variables incluidas fueron generadas aleatoriamente por el IIPE a efectos de este ejercicio|
+
+La capa de la escuela incluye información sobre una serie de variables, algunas de las cuales se basan en datos ficticios. Puede encontrar más información al respecto en la tabla de atributos "Variable dictionary - School location", guardada directamente en el GeoPackage.
+
+# ¿Cómo utilizar este repositorio de GitHub?
+
+Si nunca ha utilizado el repositorio de GitHub, puede descargar el contenido de este repositorio haciendo clic en el botón Código y luego descargar el zip. Si así lo desea, puede empezar a usar GitHub bifurcando este proyecto como base para su proyecto y compartir su trabajo en GitHub.
 
 ![image](https://user-images.githubusercontent.com/20289907/165938434-c12486a7-b9ae-43e8-81f2-0e15e279bfd3.png)
